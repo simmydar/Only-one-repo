@@ -1,2 +1,2 @@
 # Only-one-repo
-update discription 
+planing discussion 
